@@ -1,0 +1,22 @@
+{
+  "name": "deepstream-js-connector-sample",
+  "version": "1.0.0",
+  "description": "Connect to zebpay trade updates in real time with deepstream connector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zebpay/deepstream-js-connector-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zebpay/deepstream-js-connector-sample/issues"
+  },
+  "homepage": "https://github.com/zebpay/deepstream-js-connector-sample#readme",
+  "dependencies": {
+    "deepstream.io-client-js": "^2.3.0"
+  }
+}
